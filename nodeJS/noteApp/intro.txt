@@ -1,0 +1,5 @@
+Use of Requre and other modules
+
+   Load in modules bundled with nodeJS (FSS AND HTTP)
+   Load in 3rd party libraries to use prewritten libraries
+   Require files to break down application into multiple files

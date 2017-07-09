@@ -1,0 +1,30 @@
+Intro to NodeJS:
+ code that can be used to manipulate files, databases, web servers, etc...
+ similar to Java or Python
+ take JS code and convert to machine code that can run directly and nor interpreted
+
+ a JS runtime within the browser using a v8 engine which is OS JS engine in C++
+ takes JS code and converts to machine code within Chrome and other browsers
+
+ typing node on command line sets up commands for JS:
+	Alexs-MacBook-Pro:~ alexlouzao$ node
+	> console.log('Hello World')
+	Hello World
+	undefined
+
+	process.exit(0) to exit the node command or command d
+
+every variable you create is stored in the window / global in Node
+
+
+Why Learn NodeJS:
+   NPM is largest open sourced library system for 3rd party modules
+   multiple packages to perform validation and add modules
+
+   it is an event driven and non-blocking I/O model for communication with
+   databases and other files or http requests to APIs
+   when one user request items others don't get interrupted
+
+   non-blocking allows the flow of retrieving data to not be in a waiting state
+   but can execute other functions as well to fetch information and the
+   application will perform much quicker
