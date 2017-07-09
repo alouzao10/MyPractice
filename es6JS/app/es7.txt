@@ -1,0 +1,9 @@
+ES7 Features
+
+exponent operator for mapping
+support for arrays with include methods
+
+ES8 Proposals
+
+access elements of objects with values and entries methods to access values
+Async functions, allow code to run in background through promises
